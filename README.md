@@ -48,4 +48,6 @@ I welcome opportunities to collaborate with governments, development partners, a
 
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
+## Blog
 
+* [The Future is Light: How Space Lasers Could Eclipse Submarine Cables](https://liavaa.space/blog/20240402/20240402.md)
