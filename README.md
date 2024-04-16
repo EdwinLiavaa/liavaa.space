@@ -2,7 +2,8 @@
  <img width="500" src="https://github.com/EdwinLiavaa/liavaa.space/blob/main/logo.png">
 </p>
 
-## About Me - Empowering Communities Through Technology
+## About Me 
+### Empowering Communities Through Technology
 
 Your go-to guy, get things done tech trailblazer with 30+ years driving connectivity and innovation across the Pacific Islands. Passionate about leveraging emerging tech to empower communities and to bridge the digital divide. A lifelong learner and contributor.
 
