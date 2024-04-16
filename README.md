@@ -53,4 +53,5 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [The Future is Light: How Space Lasers Could Eclipse Submarine Cables](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240126/20240126.md)
 * [The Keys to Being a Successful Independent Consultant](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240127/20240127.md)
 * [Aligning Interests in the Open Source Community](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240128/20240128.md)
-* [DLT Talents Mentors: First Hands On Experience with Chainlink's CCIP ProtocolS](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240129/20240129.md)
+* [DLT Talents Mentors: First Hands On Experience with Chainlink's CCIP Protocol](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240129/20240129.md)
+* [SpaceX's Starlink Leveraging Lasers for High-Speed Internet](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240130/20240130.md)
