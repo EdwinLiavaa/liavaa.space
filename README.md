@@ -50,4 +50,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 
-* [The Future is Light: How Space Lasers Could Eclipse Submarine Cables](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240402/20240402.md)
+* [The Future is Light: How Space Lasers Could Eclipse Submarine Cables](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240126/20240126.md)
