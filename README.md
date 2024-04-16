@@ -55,3 +55,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Aligning Interests in the Open Source Community](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240128/20240128.md)
 * [DLT Talents Mentors: First Hands On Experience with Chainlink's CCIP Protocol](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240129/20240129.md)
 * [SpaceX's Starlink Leveraging Lasers for High-Speed Internet](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240130/20240130.md)
+* [Questionable Ban on Starlink in Samoa](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240201/20240201.md)
