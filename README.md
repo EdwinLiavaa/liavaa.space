@@ -76,7 +76,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Embracing Web2 While Keeping an Eye on Web3 in the Pacific Islands](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240331/20240331.md)
 * [Staying Connected to My Mission in Retirement - "Leaving No One Behind"](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240402/20240402.md)
 * [Catalyzing Independence: Mentorship Focused on Building Student Capacity, Not Dependency](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240406/20240406.md)
-* [Practicing What I Preach - Empowering the Pacific through Free and Open Source Software](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240409/20240409.md)
+* [Practicing What I Preach: Empowering the Pacific through Free and Open Source Software](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240409/20240409.md)
 * [The Thrill of the Technical Fix: Embracing My Passion as a Grassroots Engineer](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240412/20240412.md)
 * [Web3's Unifying Potential for the Dispersed Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240413/20240413.md)
 * [Web3 Rising: Decentralized Finance Will Take Take Over Traditional Banks Services](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240414/20240414.md)
