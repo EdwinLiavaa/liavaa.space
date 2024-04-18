@@ -81,3 +81,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Web3's Unifying Potential for the Dispersed Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240413/20240413.md)
 * [Web3 Rising: Decentralized Finance Will Take Take Over Traditional Banks Services](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240414/20240414.md)
 * [Practicing What I Preach: Migrating my Website Content to GitHub](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240417/20240417.md)
+* [The Bitcoin Halving: A Unifying Force for the Scattered Pasifika Context](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240419/20240419.md)
