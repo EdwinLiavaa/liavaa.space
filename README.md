@@ -83,3 +83,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Practicing What I Preach: Migrating my Website Content to GitHub](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240417/20240417.md)
 * [The Bitcoin Halving: A Unifying Force for the Scattered Pasifika Context](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240419/20240419.md)
 * [The Oracle: A Crypto Thriller for the Pasifika Way Finders](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240420/20240420.md)
+* [Prompt Engineering: Unleashing the Power of Generative AI for the Pasifika Way Finders](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240421/20240421.md)
