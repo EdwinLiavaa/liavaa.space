@@ -86,3 +86,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Prompt Engineering: Unleashing the Power of Generative AI for the Pasifika Wayfinders](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240421/20240421.md)
 * [My Life Hack: Finding Freedom as a Pasifika Wayfinder - Navigating Web3](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240424/20240424.md)
 * [The Pasifika Wayfinder's Call: Navigate Back to Balance](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240428/20240428.md)
+* [The Eternal Wayfinder: Satoshi Nakamoto's Pure Vision](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240429/20240429.md)
