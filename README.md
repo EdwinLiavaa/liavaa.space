@@ -89,3 +89,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [The Eternal Wayfinder: Satoshi Nakamoto's Pure Vision](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240429/20240429.md)
 * [Navigating Utilities Asset Management with QGIS and QField: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240504/20240504.md)
 * [Decentralizing Power - A Blockchain-Enabled Microgrid Future for Tonga and Small Islands States: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240509/20240509.md)
+* [Bridging the Pacific Connectivity Divide with Starlink: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240511/20240511.md)
