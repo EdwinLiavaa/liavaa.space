@@ -93,4 +93,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Prompt Engineering: AI Will Create New Opportunities For The Pasifika Wayfinders](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240515/20240515.md)
 * [Embracing Our Decentralized Digital Micro Future : A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240518/20240518.md)
 * [Amplifying Starlink with Boosters/Repeaters: A Pasifika Wayfinder's Mesh](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240520/20240520.md)
-* [Blockchain Proof-of-Participation: A Wayfinder Catalyzing Tonga's Renewable Energy Democracy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240524/20240524.md)]
+* [Blockchain Proof-of-Participation: A Wayfinder Catalyzing Tonga's Renewable Energy Democracy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240524/20240524.md)
