@@ -94,3 +94,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Embracing Our Decentralized Digital Micro Future : A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240518/20240518.md)
 * [Amplifying Starlink with Boosters/Repeaters: A Pasifika Wayfinder's Mesh](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240520/20240520.md)
 * [Blockchain Proof-of-Participation: A Wayfinder Catalyzing Tonga's Renewable Energy Democracy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240524/20240524.md)
+* [Who's at the Table? Consumers Should be First in "High Level" Discussions](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240530/20240530.md)
