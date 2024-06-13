@@ -99,3 +99,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Tonga Power's $3.8M Plan: A Costly Band-Aid on a Broken Model](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240605/20240605.md)
 * [Starlink's Direct-To-Cell Revolution: Bridging the Global Connectivity Gap](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240606/20240606.md)
 * [The Revival of PasifikaOS: Blockchain Governance Comes to Life](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240612/20240612.md)
+* [Bitcoin & Crypto: The Petrodollar's Demise Signals a Monumental Shift in Global Finance](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240614/20240614.md)
