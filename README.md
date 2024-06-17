@@ -101,3 +101,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [The Revival of PasifikaOS: Blockchain Governance Comes to Life](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240612/20240612.md)
 * [Bitcoin & Crypto: The Petrodollar's Demise Signals a Monumental Shift in Global Finance](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240614/20240614.md)
 * [The Proof-of-Work Antidote to Political Middlemen](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240616/20240616.md)
+* [Starlink Mini: The Next Frontier in Portable Connectivity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240618/20240618.md)
