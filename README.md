@@ -102,3 +102,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Bitcoin & Crypto: The Petrodollar's Demise Signals a Monumental Shift in Global Finance](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240614/20240614.md)
 * [The Proof-of-Work Antidote to Political Middlemen](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240616/20240616.md)
 * [Starlink Mini: The Next Frontier in Portable Connectivity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240618/20240618.md)
+* [The Emancipatory Power of Proof-of-Work](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240620/20240620.md)
