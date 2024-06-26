@@ -1,5 +1,5 @@
 # PasifikaOS 3.0: Embracing Financial Freedom with Bitcoin Core & Chainlink Integration
-## By: [Edwin Liava'a](https://github.cepeaters:om/EdwinLiavaa) 22 June 2024
+## By: [Edwin Liava'a](https://github.com/EdwinLiavaa) 22 June 2024
 
 <p align="center">
  <img width="500" src="https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240622/pic.png">
