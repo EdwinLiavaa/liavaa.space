@@ -104,3 +104,4 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 * [Starlink Mini: The Next Frontier in Portable Connectivity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240618/20240618.md)
 * [The Emancipatory Power of Proof-of-Work "Lea-pe-Ngaue"](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240620/20240620.md)
 * [Embracing Retirement: A Call for Financial Literacy and Pursuing Passions](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240624/20240624.md)
+* [Bitcoin: From Philosophical Ideal to Practical Liberation](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240627/20240627.md)
