@@ -50,6 +50,7 @@ I welcome opportunities to collaborate with governments, development partners, a
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
 ## Blog
+* [Unleashing the Power of Web3: A Call to Action for Governments and Initiatives](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240705/20240705.md)
 * [Rethinking Tonga's Connectivity: Is Submarine Fiber Optic Cable the Best Solution?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240701/20240701.md)
 * [Tonga's New Submarine Cable: A Step Forward, but at What Cost?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240629/20240629.md)
 * [Bitcoin: From Philosophical Ideal to Practical Liberation](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240627/20240627.md)
