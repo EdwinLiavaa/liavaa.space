@@ -50,6 +50,7 @@ I welcome opportunities to collaborate with governments, development partners, a
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
 ## Blog
+* [Navigating Tonga's Connectivity Conundrum: The Starlink Saga](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240710/20240710.md)
 * [PasifikaOS: A Journey Towards Digital Sovereignty and Beyond](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240709/20240709.md)
 * [Unleashing the Power of Web3: A Call to Action for Governments and Initiatives](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240705/20240705.md)
 * [Rethinking Tonga's Connectivity: Is Submarine Fiber Optic Cable the Best Solution?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240701/20240701.md)
