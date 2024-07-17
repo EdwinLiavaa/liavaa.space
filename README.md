@@ -50,6 +50,7 @@ I welcome opportunities to collaborate with governments, development partners, a
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
 ## Blog
+* [Decentralized Digital Micro Future - A Blockchain Micro-Governance Model with Satellite Broadband Connectivity powered by Renewable Energy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240718/20240718.md)
 * [The Freedom to Challenge the Status Quo - Why I Retired at 52 to Reshape Governance through Web3](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240713/20240713.md)
 * [The Starlink Shutdown in Tonga: A Tale of Conflicting Interests and Citizen Awareness](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240711/20240711.md)
 * [Navigating Tonga's Connectivity Conundrum: The Starlink Saga](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240710/20240710.md)
