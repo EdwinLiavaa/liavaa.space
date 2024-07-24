@@ -50,6 +50,7 @@ I welcome opportunities to collaborate with governments, development partners, a
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
 ## Blog
+* [Embracing Open Source and Decentralization: Lessons from Switzerland and Beyond](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240725/20240725.md)
 * [Pumped for Bitcoin 2024 - the world's largest Bitcoin conference!](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240724/20240724.md)
 * [A New Dawn for Tonga's Connectivity: Starlink Mini and the Provisional Temporary Permit](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240721/20240721.md)
 * [PasifikaOS: Your Escape from the Windows CrowdStrike Bug](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240719/20240719.md)
