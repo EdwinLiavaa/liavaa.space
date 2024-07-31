@@ -50,6 +50,7 @@ I welcome opportunities to collaborate with governments, development partners, a
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
 ## Blog
+* [The Bitcoin Revolution: A Vision for a Decentralized Future from Bitcoin 2024 ](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240731/20240731.md)
 * [The Swiss Crypto-Regulatory Playbook: Insights for Building Robust Blockchain Ecosystems](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240730/20240730.md)
 * [Embracing Open Source and Decentralization: Lessons from Switzerland and Beyond](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240725/20240725.md)
 * [Pumped for Bitcoin 2024 - the world's largest Bitcoin conference!](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240724/20240724.md)
