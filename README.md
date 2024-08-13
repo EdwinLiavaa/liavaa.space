@@ -50,7 +50,8 @@ I welcome opportunities to collaborate with governments, development partners, a
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
 ## Blog
-* [Bitcoin: My 3 Horsemen on Hackernoon](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240811/20240811.md)
+
+* [Bitcoin: My Journey From Skepticism to Passion](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240814/20240814.md)
 * [Renewable Energy Micro-Grids: A Pathway to True Empowerment for Tonga's Youth](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240810/20240810.md)
 * [The Bitcoin Revolution: A Vision for a Decentralized Future from Bitcoin 2024](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240731/20240731.md)
 * [The Swiss Crypto-Regulatory Playbook: Insights for Building Robust Blockchain Ecosystems](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240730/20240730.md)
