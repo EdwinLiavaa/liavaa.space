@@ -51,6 +51,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 
+* [mpowering Digital Sovereignty: Integrating Bitcoin Core, Rootstock, and PasifikaOS](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240817/20240817.md)
 * [Bitcoin: My Journey From Skepticism to Passion](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240814/20240814.md)
 * [Renewable Energy Micro-Grids: A Pathway to True Empowerment for Tonga's Youth](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240810/20240810.md)
 * [The Bitcoin Revolution: A Vision for a Decentralized Future from Bitcoin 2024](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240731/20240731.md)
