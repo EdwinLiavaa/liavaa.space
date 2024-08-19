@@ -51,6 +51,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 
+* [Bitcoin Games Hackathon 2024 Winners Announced: A Silver Lining and a Stronger Resolve](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240820/20240820.md)
 * [Empowering Digital Sovereignty: Integrating Bitcoin Core, Rootstock, and PasifikaOS](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240817/20240817.md)
 * [Bitcoin: My Journey From Skepticism to Passion](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240814/20240814.md)
 * [Renewable Energy Micro-Grids: A Pathway to True Empowerment for Tonga's Youth](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240810/20240810.md)
