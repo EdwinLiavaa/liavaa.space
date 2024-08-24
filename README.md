@@ -51,6 +51,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 
+* [Bitcoin: Dreams Do Come True](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240825/20240825.md)
 * [Bitcoin: A Guide to Civil Disobedience](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240823/20240823.md)
 * [Bitcoin Games Hackathon 2024 Winners Announced: A Silver Lining and a Stronger Resolve](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240820/20240820.md)
 * [Empowering Digital Sovereignty: Integrating Bitcoin Core, Rootstock, and PasifikaOS](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240817/20240817.md)
