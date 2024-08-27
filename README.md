@@ -51,6 +51,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 
+* [Tonga's Connectivity Saga Concludes: Satellite is the Optimal Solution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240828/20240828.md)
 * [Bitcoin: Bitcoin: Your Guide to Free Speech](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240826/20240826.md)
 * [Bitcoin: Dreams Do Come True](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240825/20240825.md)
 * [Bitcoin: A Guide to Civil Disobedience](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240823/20240823.md)
