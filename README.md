@@ -51,6 +51,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 
+* [Bitcoin: A Revolutionary Solution for Pacific Islands' Remittance Dependence](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240917/20240917.md)
 * [Tonga's Youth: Pioneering a Decentralized, Sustainable Future](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240911/20240911.md)
 * [Waking Up from the Sleep of Ignorance: Bitcoin as a Catalyst for Change](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240904/20240904.md)
 * [Bitcoin: Exercising Financial Civil Disobedience in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240831/20240831.md)
