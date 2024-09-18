@@ -51,7 +51,6 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 * [The NRBT Celebrates 35 Years, but is the Tongan Paanga Losing Ground?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240919/20240919.md)
-* [Bitcoin: A Potential Economic Solution for Pacific Island Nations](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240917/20240917.md)
 * [Waking Up from the Sleep of Ignorance: Bitcoin as a Catalyst for Change](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240904/20240904.md)
 * [Bitcoin: Exercising Financial Civil Disobedience in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240831/20240831.md)
 * [Tonga's Connectivity Saga Concludes: Satellite is the Optimal Solution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240828/20240828.md)
