@@ -50,6 +50,8 @@ I welcome opportunities to collaborate with governments, development partners, a
 Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.
 
 ## Blog
+
+* [Bitcoin: Becoming the CEO of you own career and financial destiny](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240920/20240920.md)
 * [The NRBT Celebrates 35 Years, but is the Tongan Paanga Losing Ground?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240919/20240919.md)
 * [Waking Up from the Sleep of Ignorance: Bitcoin as a Catalyst for Change](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240904/20240904.md)
 * [Bitcoin: Exercising Financial Civil Disobedience in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240831/20240831.md)
