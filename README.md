@@ -53,7 +53,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 * [Addressing Tonga's Economic Struggles: Embracing Digital Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240925/20240925.md)
 * [Breaking Free: Embracing Conviction in a World of Digital Revolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240924/20240924.md)
-* [The Future of Bitcoin: Embracing Decentralization and Sustainable Energy Solutions](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240922/20240922.md)
+* [The Future of Bitcoin: Embracing Decentralization and Solo Mining](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240922/20240922.md)
 * [Bitcoin: Becoming the CEO of you own career and financial destiny](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240920/20240920.md)
 * [The NRBT Celebrates 35 Years, but is the Tongan Paanga Losing Ground?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240919/20240919.md)
 * [Waking Up from the Sleep of Ignorance: Bitcoin as a Catalyst for Change](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240904/20240904.md)
