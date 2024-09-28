@@ -51,6 +51,7 @@ Let's connect to explore how my decades of on-the-ground expertise pioneering di
 
 ## Blog
 
+* [The Clash of the Titans: Trial of the Century for Tonga's Financial Sector](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240928/20240928.md)
 * [Addressing Tonga's Economic Struggles: Embracing Digital Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240925/20240925.md)
 * [Breaking Free: Embracing Conviction in a World of Digital Revolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240924/20240924.md)
 * [The Future of Bitcoin: Embracing Decentralization and Solo Mining](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240922/20240922.md)
