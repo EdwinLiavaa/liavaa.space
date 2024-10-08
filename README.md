@@ -35,9 +35,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * Cloud architecture and app development.
 * Geospatial systems, mapping solutions, disaster vulnerability analysis and risk monitoring.
 
-<p align="justify">I welcome opportunities to collaborate with governments, development partners, and industry leaders seeking an accomplished technologist and project manager to supercharge community impact goals through practical and ethical applications of the latest innovations.
+<p align="justify">I welcome opportunities to collaborate with governments, development partners, and industry leaders seeking an accomplished technologist and project manager to supercharge community impact goals through practical and ethical applications of the latest innovations.</p>
 
-Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
+<p align="justify">Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
 
 ## Blog
 * [The Future of Financial Sovereignty for Developing Nations: IMF vs Bitcoin vs BRICS CDBCs - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241007/20241007.md)
