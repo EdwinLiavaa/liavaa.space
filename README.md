@@ -5,21 +5,11 @@
 ## About Me 
 ### Empowering Communities Through Technology
 
-Your go-to guy, get things done tech trailblazer with 30+ years driving connectivity and innovation across the Pacific Islands. Passionate about leveraging emerging tech to empower communities and to bridge the digital divide. A lifelong learner and contributor.
+<p align="justify">Your go-to guy, get things done tech trailblazer driving connectivity and innovation across the Pacific Islands. Passionate about leveraging emerging tech to empower communities and to bridge the digital divide. A lifelong learner and contributor.</p>
 
 ## Short Bio
 
-A results-driven technology leader focusing on leveraging innovation to expand connectivity and provide greater access to tools that can transform lives.
-
-With over 30 years of experience across the Pacific Islands region, I have cultivated partnerships and advocated for emerging technologies to bridge the digital divide. As former CEO of Tonga Cable Limited, I spearheaded deployment of affordable high-speed internet through submarine fiber optic networks. As CTO of PowerPlay, I built blockchain-enabled solutions for renewable energy adoption. As former Corporate Development and Regional Director of Kacific Broadband Satellites Group expanding satellite internet coverage across the Pacific Islands. I also served as the Objective 4 Lead for USAID's Digital Connectivity and Cybersecurity Partnership Project, enhancing digital skills of civil servants and supporting the next generation of ICT specialists.
-
-Currently, an independent consultant as GIS Specialist but I remain passionate about the mission of "Leaving No One Behind" through broadband internet access.
-
-I am deeply motivated by leveraging technologies like AI, blockchain, geomatics and satellites to drive sustainable development. An active open source contributor, I develop GIS and mapping applications, work on blockchain interoperability with decentralized oracle networks.
-
-I am a lifelong learner, currently expanding my skills in areas like prompt engineering and pair programming with AI systems. I believe emerging innovations can transform opportunity when guided by ethics and a commitment to economic empowerment for all.
-
-When I'm not building technology, you can find me mentoring people of all ages, advocating for progressive policies, and exploring partnership opportunities that harness technology responsibly to uplift communities.
+<p align="justify">I am a results-driven technology leader with over 30 years of experience in driving connectivity and innovation across the Pacific Islands. My passion lies in leveraging emerging technologies to empower communities and bridging the digital divide. As the former CEO of Tonga Cable Limited, I led the deployment of affordable high-speed internet, and as CTO of PowerPlay, I helped develop a blockchain solution for renewable energy. My roles have included expanding satellite internet coverage as Regional, Corporate Development Director at Kacific Broadband Satellites Group and enhancing digital skills through USAID's Digital Connectivity Project. I am now officially retired from corporate life but I remain dedicated to the mission of "Leaving No One Behind" through broadband access. When I'm not building technology, you will find me blogging, mentoring individuals of all ages, advocating for progressive policies, and exploring partnerships that utilize technology responsibly to uplift communities.</p>
 
 ## Services
 
