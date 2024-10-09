@@ -40,8 +40,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 <p align="justify">Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
 
 ## Blog
-* [The Future of Financial Sovereignty for Developing Nations: IMF vs Bitcoin vs BRICS CDBCs - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241007/20241007.md)
-* [The Future of Financial Sovereignty for Developing Nations: Bitcoin vs BRICS CDBCs - PART 1](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241004/20241004.md)
+* [The Future of Financial Sovereignty for Developing Nations: IMF vs Bitcoin - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241007/20241007.md)
+* [The Future of Financial Sovereignty for Developing Nations: BRICS CDBCs vs Bitcoin - PART 1](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241004/20241004.md)
 * [Starlink & Bitcoin: How to Experiment with Solo Mining in the Pacific Islands Region](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241002/20241002.md)
 * [The Clash of the Titans: Trial of the Century for Tonga's Financial Sector](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240928/20240928.md)
 * [Addressing Tonga's Economic Struggles: Embracing Digital Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240925/20240925.md)
