@@ -40,6 +40,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 <p align="justify">Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
 
 ## Blog
+* [The Future of Bitcoin: You and Me](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241010/20241010.md)
 * [The Future of Financial Sovereignty for Developing Nations: IMF vs Bitcoin - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241007/20241007.md)
 * [The Future of Financial Sovereignty for Developing Nations: BRICS CDBCs vs Bitcoin - PART 1](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241004/20241004.md)
 * [Starlink & Bitcoin: How to Experiment with Solo Mining in the Pacific Islands Region](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241002/20241002.md)
