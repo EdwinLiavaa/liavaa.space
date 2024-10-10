@@ -121,5 +121,3 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [SpaceX's Starlink Leveraging Lasers for High-Speed Internet](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240130/20240130.md)
 * [DLT Talents Mentors: First Hands On Experience with Chainlink's CCIP Protocol](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240129/20240129.md)
 * [Aligning Interests in the Open Source Community](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240128/20240128.md)
-* [The Keys to Being a Successful Independent Consultant](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240127/20240127.md)
-* [Marketing and Selling Your Niche: Keys to Consultant Success](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240126/20240126.md)
