@@ -46,7 +46,6 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [The Clash of the Titans: Trial of the Century for Tonga's Financial Sector](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240928/20240928.md)
 * [Addressing Tonga's Economic Struggles: Embracing Digital Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240925/20240925.md)
 * [Breaking Free: Embracing Conviction in a World of Digital Revolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240924/20240924.md)
-* [The Future of Bitcoin: Embracing Decentralization and Solo Mining](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240922/20240922.md)
 * [The NRBT Celebrates 35 Years, but is the Tongan Paanga Losing Ground?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240919/20240919.md)
 * [Waking Up from the Sleep of Ignorance: Bitcoin as a Catalyst for Change](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240904/20240904.md)
 * [Bitcoin: Exercising Financial Civil Disobedience in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240831/20240831.md)
