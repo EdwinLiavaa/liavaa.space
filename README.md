@@ -40,6 +40,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 <p align="justify">Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
 
 ## Blog
+* [The Future of Financial Sovereignty for Developing Nations: Inflation vs Bitcoin - PART 3](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241016/20241016.md)
 * [World Mental Health Day: Breaking Free from People-Pleasing](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241011/20241011.md)
 * [The Future of Bitcoin: You and Me](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241010/20241010.md)
 * [The Future of Financial Sovereignty for Developing Nations: IMF vs Bitcoin - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241007/20241007.md)
