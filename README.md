@@ -40,6 +40,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 <p align="justify">Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
 
 ## Blog
+* [X5 Mobile Pro GNSS Receiver User's Manual](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241023/20241023.md)
 * [Navigating Utilities Asset Management with QGIS, QField, X5 Mobile PRO, and Starlink Mini: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241017/20241017.md)
 * [World Mental Health Day: Breaking Free from People-Pleasing](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241011/20241011.md)
 * [The Future of Financial Sovereignty for Developing Nations: IMF vs Bitcoin - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241007/20241007.md)
