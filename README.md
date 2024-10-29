@@ -40,6 +40,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 <p align="justify">Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
 
 ## Blog
+* [The Long Road Home: A Story of Loss, Learning, and Renaissance](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241030/20241030.md)
 * [QGIS Cloud User Manual](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241024/20241024.md)
 * [X5 Mobile Pro GNSS Receiver User's Manual](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241023/20241023.md)
 * [Navigating Utilities Asset Management with QGIS, QField, X5 Mobile PRO, and Starlink Mini: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241017/20241017.md)
