@@ -40,6 +40,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 <p align="justify">Let's connect to explore how my decades of on-the-ground expertise pioneering digital transformation across the Pacific can help take your mission to the next level.</p>
 
 ## Blog
+
+### October 2024
 * [The Long Road Home: A Story of Loss, Learning, and Renaissance](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241030/20241030.md)
 * [QGIS Cloud User Manual](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241024/20241024.md)
 * [X5 Mobile Pro GNSS Receiver User's Manual](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241023/20241023.md)
@@ -48,16 +50,22 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [The Future of Financial Sovereignty for Developing Nations: IMF vs Bitcoin - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241007/20241007.md)
 * [The Future of Financial Sovereignty for Developing Nations: BRICS CDBCs vs Bitcoin - PART 1](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241004/20241004.md)
 * [Starlink & Bitcoin: How to Experiment with Solo Mining in the Pacific Islands Region](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241002/20241002.md)
+
+### September 2024
 * [The Clash of the Titans: Trial of the Century for Tonga's Financial Sector](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240928/20240928.md)
 * [Addressing Tonga's Economic Struggles: Embracing Digital Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240925/20240925.md)
 * [Breaking Free: Embracing Conviction in a World of Digital Revolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240924/20240924.md)
 * [The NRBT Celebrates 35 Years, but is the Tongan Paanga Losing Ground?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240919/20240919.md)
 * [Waking Up from the Sleep of Ignorance: Bitcoin as a Catalyst for Change](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240904/20240904.md)
+  
+### August 2024
 * [Bitcoin: Exercising Financial Civil Disobedience in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240831/20240831.md)
 * [Tonga's Connectivity Saga Concludes: Satellite is the Optimal Solution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240828/20240828.md)
 * [Bitcoin: A Guide to Civil Disobedience](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240823/20240823.md)
 * [Bitcoin: My 3 Horsemen on Hackernoon](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240811/20240811.md)
 * [Renewable Energy Micro-Grids: A Pathway to True Empowerment for Tonga's Youth](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240810/20240810.md)
+  
+### July 2024
 * [The Bitcoin Revolution: A Vision for a Decentralized Future from Bitcoin 2024](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240731/20240731.md)
 * [The Swiss Crypto-Regulatory Playbook: Insights for Building Robust Blockchain Ecosystems](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240730/20240730.md)
 * [Embracing Open Source and Decentralization: Lessons from Switzerland and Beyond](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240725/20240725.md)
@@ -71,6 +79,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [PasifikaOS: A Journey Towards Digital Sovereignty and Beyond](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240709/20240709.md)
 * [Unleashing the Power of Web3: A Call to Action for Governments and Initiatives](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240705/20240705.md)
 * [Rethinking Tonga's Connectivity: Is Submarine Fiber Optic Cable the Best Solution?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240701/20240701.md)
+  
+### June 2024
 * [Tonga's New Submarine Cable: A Step Forward, but at What Cost?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240629/20240629.md)
 * [Bitcoin: From Philosophical Ideal to Practical Liberation](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240627/20240627.md)
 * [Embracing Retirement: A Call for Financial Literacy and Pursuing Passions](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240624/20240624.md)
@@ -82,6 +92,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [Starlink's Direct-To-Cell Revolution: Bridging the Global Connectivity Gap](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240606/20240606.md)
 * [Tonga Power's $3.8M Plan: A Costly Band-Aid on a Broken Model](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240605/20240605.md)
 * [Bitcoin: Proof-of-Work as Humanity's Emancipation Engine](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240602/20240602.md)
+  
+### May 2024
 * [Who's at the Table? Consumers Should be First in "High Level" Discussions](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240530/20240530.md)
 * [Blockchain Proof-of-Participation: A Wayfinder Catalyzing Tonga's Renewable Energy Democracy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240524/20240524.md)
 * [Amplifying Starlink with Boosters/Repeaters: A Pasifika Wayfinder's Mesh](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240520/20240520.md)
@@ -90,6 +102,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [Bridging the Pacific Connectivity Divide with Starlink: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240511/20240511.md)
 * [Decentralizing Power - A Blockchain-Enabled Microgrid Future for Tonga and Small Islands States: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240509/20240509.md)
 * [Navigating Utilities Asset Management with QGIS and QField: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240504/20240504.md)
+  
+### April 2024
 * [The Eternal Wayfinder: Satoshi Nakamoto's Pure Vision](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240429/20240429.md)
 * [The Pasifika Wayfinder's Call: Navigate Back to Balance](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240428/20240428.md)
 * [My Life Hack: Finding Freedom as a Pasifika Wayfinder - Navigating Web3](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240424/20240424.md)
@@ -103,6 +117,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [Practicing What I Preach: Empowering the Pacific through Free and Open Source Software](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240409/20240409.md)
 * [Catalyzing Independence: Mentorship Focused on Building Student Capacity, Not Dependency](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240406/20240406.md)
 * [Staying Connected to My Mission in Retirement - "Leaving No One Behind"](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240402/20240402.md)
+  
+### March 2024
 * [Embracing Web2 While Keeping an Eye on Web3 in the Pacific Islands](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240331/20240331.md)
 * [Burning Bridges: The Crucial Career Unplug](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240330/20240330.md)
 * [Matrix Unplugged - Life Lessons](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240329/20240329.md)
@@ -114,6 +130,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [Unleash Your Web3 Potential at The Chainlink Developer Virtual Bootcamp 2024](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240307/20240307.md)
 * [Chainlink's CCIP - The Bridge for Institutional Blockchain Adoption](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240305/20240305.md)
 * [Navigating Centralization vs Decentralization - My Blockchain Mentorship Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240302/20240302.md)
+  
+### February 2024
 * [Streamlining Utilities Operations with GIS Job Management](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240228/20240228.md)
 * [Leveraging GIS to Sustainably Manage a Precious Resource in the Cook Islands](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240226/20240226.md)
 * [Open-Sourcing: Decades of GIS Innovation](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240218/20240218.md)
@@ -122,6 +140,8 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [The Internet's Natural Evolution: How Can We Shape a Better Future?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240204/20240204.md)
 * [The Future is Light: How Space Lasers Could Eclipse Submarine Cables](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240202/20240202.md)
 * [Questionable Ban on Starlink in Samoa](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240201/20240201.md)
+  
+### January 2024
 * [SpaceX's Starlink Leveraging Lasers for High-Speed Internet](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240130/20240130.md)
 * [DLT Talents Mentors: First Hands On Experience with Chainlink's CCIP Protocol](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240129/20240129.md)
 * [Aligning Interests in the Open Source Community](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20240128/20240128.md)
