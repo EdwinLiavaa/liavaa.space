@@ -41,8 +41,11 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### November 2024
+* [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241101/20241101.md)
+  
 ### October 2024
-* [The Long Road Home: A Story of Loss, Learning, and Renaissance = PART 1](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241030/20241030.md)
+* [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 1](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241030/20241030.md)
 * [QGIS Cloud User Manual](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241024/20241024.md)
 * [X5 Mobile Pro GNSS Receiver User's Manual](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241023/20241023.md)
 * [Navigating Utilities Asset Management with QGIS, QField, X5 Mobile PRO, and Starlink Mini: A Pasifika Wayfinder's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241017/20241017.md)
