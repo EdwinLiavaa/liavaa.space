@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### November 2024
+* [Niue's Digital Paradox: A Tale of Selective Connectivity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241102/20241102.md)
 * [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241101/20241101.md)
   
 ### October 2024
