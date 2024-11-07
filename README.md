@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### November 2024
+* [My Journey into Smart Contract Security Research: First Steps with Cyfrin Updraft](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241108/20241108.md)
 * [Chainlink's First-Ever Blockchain Beginner Bootcamp is Coming November 18-20](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241106/20241106.md)
 * [Building Hybrid Smart Contracts: Integrating Rootstock and Chainlink with Hardhat](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241104/20241104.md)
 * [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 3](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241103/20241103.md)
