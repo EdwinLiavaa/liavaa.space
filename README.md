@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### November 2024
+* [Finding Hope: The Possibility of Edward Snowden's Return](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241110/20241110.md)
 * [My Journey as a Web3 Bounty Writer on HackerNoon - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241109/20241109.md)
 * [My Journey as a Smart Contract Security Researcher: First Steps with Cyfrin Updraft](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241108/20241108.md)
 * [Chainlink's First-Ever Blockchain Beginner Bootcamp is Coming November 18-20](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241106/20241106.md)
