@@ -30,7 +30,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ### Emerging Technology Expertise:
 
-* Blockchain platforms for finance, identity, supply chain, waste management and energy.
+* Blockchain and smart contracts development, sercutity auditing research, platforms for finance, identity, supply chain, waste management and energy.
 * AI, machine learning and data analytics applications.
 * Cloud architecture and app development.
 * Geospatial systems, mapping solutions, disaster vulnerability analysis and risk monitoring.
@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### November 2024
+* [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 4](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241112/20241112.md)
 * [Finding Hope: The Possibility of Edward Snowden's Return](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241110/20241110.md)
 * [My Journey as a Web3 Bounty Writer on HackerNoon - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241109/20241109.md)
 * [My Journey as a Smart Contract Security Researcher: First Steps with Cyfrin Updraft](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241108/20241108.md)
