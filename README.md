@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### November 2024
+* [Bitcoin: Proof-of-Work as Humanity's Emancipation Engine - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241124/20241124.md)
 * [Riding the Wave: My Journey from VSCode to Windsurf](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241118/20241118.md)
 * [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 4](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241112/20241112.md)
 * [Finding Hope: The Possibility of Edward Snowden's Return](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241110/20241110.md)
