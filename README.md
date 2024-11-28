@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### November 2024
+* [Wayfinding the Future: How Open-Source Tech is Revolutionizing Utilities Management in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241129/20241129.md)
 * [Our Greatest Dilemma as a Species: Consumerism](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241127/20241127.md)
 * [God, Bitcoin, and Proof-of-Work: How Ancient Wisdom Powers the Blockchain](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241124/20241124.md)
 * [Riding the Wave: My Journey from VSCode to Windsurf](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241118/20241118.md)
