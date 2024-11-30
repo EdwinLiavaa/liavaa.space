@@ -41,6 +41,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### December 2024
+* [Bitcoin: The Sovereignity Opportunity Pacific Islands Leaders Are Ignoring](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241201/20241201.md)
+
 ### November 2024
 * [Wayfinding the Future: How Open-Source Tech is Revolutionizing Utilities Management in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241129/20241129.md)
 * [Our Greatest Dilemma as a Species: Consumerism](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241127/20241127.md)
