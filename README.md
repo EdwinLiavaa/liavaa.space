@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### December 2024
+* [Building a Bridge Between Python and Hedera Hashgraph](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241205/20241205.md)
 * [Building a Bridge Between Python and Rootstock Blockchain](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241203/20241203.md)
 * [Bitcoin: The Sovereignity Opportunity Pacific Islands Leaders Are Ignoring](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241201/20241201.md)
 
