@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### December 2024
+* [The Waves of Change: How Bitcoin Could Transform Pacific Island Economies](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241208/20241208.md)
 * [A Smart Contract Researcher and Developer's Dilemma as a Blogger with AI Support](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241207/20241207.md)
 * [Building a Bridge Between Python and Hedera Hashgraph](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241205/20241205.md)
 * [Building a Bridge Between Python and Rootstock Blockchain](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241203/20241203.md)
