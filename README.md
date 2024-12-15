@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### December 2024
+* [Bitcoin as an Emancipation Engine: Addressing the Human Condition through Proof-of-Work](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241216/20241216.md)
 * [Starlink vs. Submarine Fiber Optic Cables: A Pacific Islands Perspective](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241215/20241215.md)
 * [Tonga's Political Turbulence: A Microcosm of Governance Challenges in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241210/20241210.md)
 * [The Waves of Change: How Bitcoin Could Transform Pacific Island Economies](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241208/20241208.md)
