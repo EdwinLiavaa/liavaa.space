@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### December 2024
+* [The Road Not Taken: How a Pacific Island Nation Almost Joined the Crypto Revolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241221/20241221.md)
 * [Building Bridges, Not Walls: The Case for Inclusive Web3 Adoption](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241220/20241220.md)
 * [Embracing Change: My Potential Leap into Tongan Politics](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241219/20241219.md)
 * [Bitcoin as an Emancipation Engine: Addressing the Human Condition through Proof-of-Work](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241216/20241216.md)
