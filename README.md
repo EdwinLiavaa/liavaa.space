@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### December 2024
+* [Crypto Security Symphony: A Personal Tale of Rhythmic Memorization](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241230/20241230.md)
 * [Unity Over Ambition: A Tale of Tongan Political Leadership](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241225/20241225.md)
 * [From Engine Room to Leadership: A Journey Across the Pacific's Digital Frontier](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241224/20241224.md)
 * [The Road Not Taken: How a Pacific Island Nation Almost Joined the Crypto Revolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241221/20241221.md)
