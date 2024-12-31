@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### December 2024
+* [Farewell 2024, Welcome 2025: A Journey Towards Making Tonga Great Again (MTGA)](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241231/20241231.md)
 * [Crypto Security Symphony: A Personal Tale of Rhythmic Memorization](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241230/20241230.md)
 * [Unity Over Ambition: A Tale of Tongan Political Leadership](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241225/20241225.md)
 * [From Engine Room to Leadership: A Journey Across the Pacific's Digital Frontier](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241224/20241224.md)
