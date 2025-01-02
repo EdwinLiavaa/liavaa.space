@@ -41,6 +41,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### January 2025
+* [Starlink's Lifeline: A New Era for Connectivity in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250102/20250102.md)
+
 ### December 2024
 * [Farewell 2024, Welcome 2025: A Journey Towards Making Tonga Great Again (MTGA)](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241231/20241231.md)
 * [Crypto Security Symphony: A Personal Tale of Rhythmic Memorization](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241230/20241230.md)
