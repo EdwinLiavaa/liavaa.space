@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### January 2025
+* [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 5](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250105/20250105.md)
 * [Starlink's Lifeline: A New Era for Connectivity in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250102/20250102.md)
 
 ### December 2024
