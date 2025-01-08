@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### January 2025
+* [Satellites and Blockchain: Starlink and Spacecoin To Lead Decentralized Internet in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250108/20250108.md)
 * [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 5](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250105/20250105.md)
 
 ### December 2024
