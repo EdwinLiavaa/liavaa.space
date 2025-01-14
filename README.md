@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### January 2025
+* [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 6](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250114/20250114.md)
 * [The Centralization Paradox in Web3: Why Bitcoin Stands Alone](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250112/20250112.md)
 * [The Space Race for Decentralized Internet: Another Road Not Taken](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250111/20250111.md)
 * [Satellites and Blockchain: Starlink and Spacecoin Could Lead Decentralized Internet in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250108/20250108.md)
