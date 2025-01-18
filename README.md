@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### January 2025
+* [Bitcoin: Choosing To Focus On The First And Oldest Cryptocurrency](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250119/20250119.md)
 * [The Potential For Collaboration Between Starlink and Spacecoin: A New Era of Connectivity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250116/20250116.md)
 * [The Hidden Cost of Pacific Regionalism: A Tale of Debt and Regional Commitments](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250115/20250115.md)
 * [The Long Road Home: A Story of Loss, Learning, and Renaissance - PART 6](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250114/20250114.md)
