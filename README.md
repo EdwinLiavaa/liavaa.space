@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### January 2025
+* [Mapping New Horizons: A Pacific Islands Technology Evolution - Part II](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250120/20250120.md)
 * [Bitcoin: Choosing To Focus On The First And Oldest Cryptocurrency](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250119/20250119.md)
 * [The Potential For Collaboration Between Starlink and Spacecoin: A New Era of Connectivity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250116/20250116.md)
 * [The Hidden Cost of Pacific Regionalism: A Tale of Debt and Regional Commitments](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250115/20250115.md)
@@ -69,7 +70,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [Bitcoin: The Sovereignity Opportunity Pacific Islands Leaders Are Ignoring](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241201/20241201.md)
 
 ### November 2024
-* [Wayfinding the Future: How Open-Source Tech is Revolutionizing Utilities Management in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241129/20241129.md)
+* [Wayfinding the Future: How Open-Source Tech is Disrupting Utilities Management in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241129/20241129.md)
 * [Our Greatest Dilemma as a Species: Consumerism](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241127/20241127.md)
 * [God, Bitcoin, and Proof-of-Work: How Ancient Wisdom Powers the Blockchain](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241124/20241124.md)
 * [Riding the Wave: My Journey from VSCode to Windsurf](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20241118/20241118.md)
