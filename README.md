@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### January 2025
+* [Decentralization Dialogues: A Pacific Island Perspective on Bitcoin](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250124/20250124.md)
 * [From Silicon Valley to Capitol Hill: Why Tech Leaders Must Shape Policy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250122/20250122.md)
 * [Mapping New Horizons: A Pacific Islands Technology Evolution - Part II](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250120/20250120.md)
 * [Bitcoin: Choosing To Focus On The First And Oldest Cryptocurrency](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250119/20250119.md)
