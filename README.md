@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### January 2025
+* [Spacecoin: The Path to True Decentralization](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250127/20250127.md)
 * [Bitcoin and Blockchain Dialogues: Where There Is A Will, There Is A Way. And I Am More Than Willing](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250125/20250125.md)
 * [Decentralization Dialogues: A Pacific Island Perspective on Bitcoin](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250124/20250124.md)
 * [From Silicon Valley to Capitol Hill: Why Tech Leaders Must Shape Policy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250122/20250122.md)
