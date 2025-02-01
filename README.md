@@ -41,6 +41,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### February 2025
+* [Most Concerns About Bitcoin Are Deeply Human - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250202/20250202.md)
+
 ### January 2025
 * [Underrated Real-World Blockchain Use Case: Satellite Broadband Service Chain](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250130/20250130.md)
 * [Spacecoin: The Path to True Decentralization](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250127/20250127.md)
