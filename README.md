@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### February 2025
+* [Foresight in Hindsight: My Journey with USAID's Pacific Digital Initiative](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250204/20250204.md)
 * [Most Concerns About Bitcoin Are Deeply Human - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250202/20250202.md)
 
 ### January 2025
