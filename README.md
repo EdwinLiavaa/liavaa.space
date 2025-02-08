@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### February 2025
+* [Why does centralization occur in a system explicitly designed to prevent it?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250209/20250209.md)
 * [The Digital Disconnect: Tonga's Tourism and ICT Infrastructure in 2025](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250207/20250207.md)
 * [Foresight in Hindsight: My Journey with USAID's Pacific Digital Initiative](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250205/20250205.md)
 * [Most Concerns About Bitcoin Are Deeply Human - PART 2](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250202/20250202.md)
