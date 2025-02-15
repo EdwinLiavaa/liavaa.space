@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### February 2025
+* [Serving Tonga's Digital Future Beyond Parliament](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250216/20250216.md)
 * [The beauty of Bitcoin's nature is that it remains responsive to its community's values and needs](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250212/20250212.md)
 * [Why does centralization occur in a system explicitly designed to prevent it?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250209/20250209.md)
 * [The Digital Disconnect: Tonga's Tourism and ICT Infrastructure in 2025](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250207/20250207.md)
