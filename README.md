@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### February 2025
+* [Moana - The Hidden Digital Gold of the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250219/20250219.md)
 * [Launching the Development Phase of a DePIN Framework for Pacific Islands' Geospatial Infrastructure](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250217/20250217.md)
 * [Serving Tonga's Digital Future Beyond Parliament](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250216/20250216.md)
 * [The beauty of Bitcoin's nature is that it remains responsive to its community's values and needs](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250212/20250212.md)
