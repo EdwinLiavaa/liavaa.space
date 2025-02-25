@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### February 2025
+* [Show Me Your Faith and I will Show My Work](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250226/20250226.md)
 * [Crazy Enough To Change The World? Be Crazy Enough To Change Yourself First!](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250224/20250224.md)
 * [The Hidden Costs of Ministry of Public Enterprises' Statutory Board of Directors](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250223/20250223.md)
 * [Ministry of Public Enterprises Statutory Board of Directors Obsolete](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250221/20250221.md)
