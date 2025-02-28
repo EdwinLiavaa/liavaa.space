@@ -41,6 +41,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### March 2025
+* [America's Path to Blockchain Leadership](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250301/20250301.md)
+
 ### February 2025
 * [Show Me Your Faith and I will Show You My Work](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250226/20250226.md)
 * [Crazy Enough To Change The World? Be Crazy Enough To Change Yourself First!](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250224/20250224.md)
