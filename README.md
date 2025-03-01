@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### March 2025
+* [Math Should Replace Trust - A New Model for Diplomatic Relations](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250302/20250302.md)
 * [America's Path to Blockchain Leadership](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250301/20250301.md)
 
 ### February 2025
