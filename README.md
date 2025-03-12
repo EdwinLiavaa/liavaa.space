@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### March 2025
+* [Launching the Pasifika Web3 Tech Hub - A New Dawn for Pacific Digital Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250312/20250312.md)
 * [Sovereignty in the Pacific - Where There's a Will, There's a Web3 Way](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250310/20250310.md)
 * [Tonga's Telecommunications Connectivity - No Free Ride](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250306/20250306.md)
 * [Tonga's Connectivity Saga - No People No Country](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250305/20250305.md)
