@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### March 2025
+* [The Power of Action Over Reports - Lessons from Elon Musk and Pacific Development Experience](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250319/20250319.md)
 * [The Web3 Identity Crisis - Corporations in Decentralized Clothing](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250314/20250314.md)
 * [Launching the Pasifika Web3 Tech Hub - A New Dawn for Pacific Digital Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250312/20250312.md)
 * [Sovereignty in the Pacific - Where There's a Will, There's a Web3 Way](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250310/20250310.md)
