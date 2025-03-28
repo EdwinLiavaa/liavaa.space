@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### March 2025
+* [Pasifika - Embracing Digital Sovereignty and Financial Freedom in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250329/20250329.md)
 * [Show Me Your Faith and I will Show You My Work - Don't Neglect Your Technical Foundation](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250326/20250326.md)
 * [Pasifika Web3 - Empowering Community Governance in Pacific Island Nations](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250324/20250324.md)
 * [My Journey as a Smart Contract Security Researcher - Navigating the Wild West of Web3](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250321/20250321.md)
