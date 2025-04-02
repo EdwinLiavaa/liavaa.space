@@ -41,6 +41,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### April 2025
+* [What Would a Decentralized Internet Look Like?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250403/20250403.md)
+
 ### March 2025
 * [Learning from Singapore - How Lee Kuan Yew's Bilingual Policy Can Transform Small Island Nations](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250331/20250331.md)
 * [Pasifika - Embracing Digital Sovereignty and Financial Freedom in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250329/20250329.md)
