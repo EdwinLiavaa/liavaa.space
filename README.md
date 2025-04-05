@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### April 2025
+* [What Makes Decentralized Cloud Computing Better Than Traditional Cloud Services?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250405/20250405.md)
 * [What Would a Decentralized Internet Look Like?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250403/20250403.md)
 
 ### March 2025
