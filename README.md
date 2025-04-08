@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500" src="https://github.com/EdwinLiavaa/liavaa.space/blob/main/avatar.png">
+ <img width="500" src="/avatar.png">
 </p>
 
 ## About Me 
