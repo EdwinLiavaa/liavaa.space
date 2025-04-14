@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### April 2025
+* [Bitcoin Promised to Help Tonga After Disaster—But the Blockchain Tells a Murkier Story](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250414/20250414.md)
 * [Pasifika's Hybrid DePIN Model - Transforming the Internet with LEO Satellites Integration](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250411/20250411.md)
 * [What Exactly is a Blockchain Node and How Does it Work?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250407/20250407.md)
 * [What Makes Decentralized Cloud Computing Better Than Traditional Cloud Services?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250405/20250405.md)
