@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### April 2025
+* [Becoming the Alpha Engineer - Continuous Growth vs. Executive Comfort](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250416/20250416.md)
 * [Tonga’s Government Still Runs on Gmail. Here’s Why That’s a Big Problem](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250415/20250415.md)
 * [Bitcoin Promised to Help Tonga After Disaster - But the Blockchain Tells a Murkier Story](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250414/20250414.md)
 * [Pasifika's Hybrid DePIN Model - Transforming the Internet with LEO Satellites Integration](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250411/20250411.md)
