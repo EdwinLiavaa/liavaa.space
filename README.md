@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### April 2025
+* [Beyond Promotions - Becoming an Alpha Engineer and Finding Your True Mission](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250420/20250420.md)
 * [Warning Signs Of A Monetary Order Breakdown - Is Bitcoin the Wildcard?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250418/20250418.md)
 * [Becoming the Alpha Engineer - Continuous Growth vs. Executive Comfort](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250416/20250416.md)
 * [Tonga’s Government Still Runs on Gmail. Here’s Why That’s a Big Problem](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250415/20250415.md)
