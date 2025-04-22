@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### April 2025
+* [Warning - How to Spot and Avoid "Exclusive Investment" Pyramid or Ponzi Schemes](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250423/20250423.md)
 * [Beyond Promotions - Becoming an Alpha Engineer and Finding Your True Mission](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250420/20250420.md)
 * [Warning Signs Of A Monetary Order Breakdown - Is Bitcoin the Wildcard?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250418/20250418.md)
 * [Becoming the Alpha Engineer - Continuous Growth vs. Executive Comfort](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250416/20250416.md)
