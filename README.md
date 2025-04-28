@@ -42,6 +42,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### April 2025
+* [Honey Bees Are a Surprisingly Great Analogy to Becoming an Alpha Engineer](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250428/20250428.md)
 * [Programming and Garbage Collection - A Philosophy for Code and Life](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250425/20250425.md)
 * [The Holocaust Took My Family’s Inheritance - Web3 Is How I’m Building It Back](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250424/20250424.md)
 * [Warning - How to Spot and Avoid "Exclusive Investment" Pyramid or Ponzi Schemes](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250423/20250423.md)
