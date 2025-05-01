@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### May 2025
+* [Starlink Saved Tonga. Now Amazon's Kuiper Wants In](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250501/20250501.md)
+
 ### April 2025
 * [Honey Bees Are a Surprisingly Great Analogy to Becoming an Alpha Engineer](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250428/20250428.md)
 * [Programming and Garbage Collection - A Philosophy for Code and Life](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250425/20250425.md)
