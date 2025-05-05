@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### May 2025
+* [You Can't Build the Future While Trapped in the Web2 Frame of Thinking](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250502/20250502.md)
 * [Starlink Saved Tonga. Now Amazon's Kuiper Wants In](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250501/20250501.md)
 
 ### April 2025
