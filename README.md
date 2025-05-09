@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### May 2025
+* [Why an Ethereum Based Chain? Well.. Here's Why](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250508/20250508.md)
 * [Credentials Don't Make Alpha Engineers, Products Do](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250506/20250506.md)
 * [You Can't Build the Future While Trapped in the Web2 Frame of Thinking](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250502/20250502.md)
 * [Starlink Saved Tonga. Now Amazon's Kuiper Wants In](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250501/20250501.md)
