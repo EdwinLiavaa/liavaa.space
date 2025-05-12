@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### May 2025
+* [Tonga's New Cyber Laws Modernize Digital Policy but Lack Provisions for Emerging Technologies](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250510/20250510.md)
 * [Why an Ethereum Based Chain? Well.. Here's Why](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250508/20250508.md)
 * [Credentials Don't Make Alpha Engineers, Products Do](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250506/20250506.md)
 * [You Can't Build the Future While Trapped in the Web2 Frame of Thinking](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250502/20250502.md)
