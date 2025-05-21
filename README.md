@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### May 2025
+* [The Alpha Engineer's Manifesto - Why I Choose to Be Loud](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250520/20250520.md)
 * [The Alpha Engineer's Final Evolution: Entrepreneur](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250514/20250514.md)
 * [Tonga's New Cyber Laws Modernize Digital Policy but Lack Provisions for Emerging Technologies](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250510/20250510.md)
 * [Why an Ethereum Based Chain? Well.. Here's Why](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250508/20250508.md)
