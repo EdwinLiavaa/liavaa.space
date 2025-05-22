@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### May 2025
+* [Building Before Leading - Why I'm Delaying My Parliamentary Run to Complete Pasifika](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250523/20250523.md)
 * [The Alpha Engineer's Manifesto - Why I Choose to Be Loud](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250520/20250520.md)
 * [The Alpha Engineer's Final Evolution: Entrepreneur](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250514/20250514.md)
 * [Tonga's New Cyber Laws Modernize Digital Policy but Lack Provisions for Emerging Technologies](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250510/20250510.md)
