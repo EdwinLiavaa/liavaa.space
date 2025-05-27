@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### May 2025
+* [Alpha Engineers Build Through Rejection - A Week of Milestones and Mindset](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250527/20250527.md)
 * [Bitcoin Conference 2025 - Should I Go? Should I Stay?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250525/20250525.md)
 * [Building Before Leading - Why I'm Delaying My Parliamentary Run to Complete Pasifika](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250523/20250523.md)
 * [The Alpha Engineer's Manifesto - Why I Choose to Be Loud](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250520/20250520.md)
