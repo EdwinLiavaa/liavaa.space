@@ -44,9 +44,10 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### May 2025
+* [From Island Networks to Perfect Money - How DePIN Will Complete the Separation of Money from State](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250530/20250530.md)
 * [Alpha Engineers Build Through Rejection - A Week of Milestones and Mindset](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250527/20250527.md)
 * [Bitcoin Conference 2025 - Should I Go? Should I Stay?](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250525/20250525.md)
-* [Building Before Leading - Why I'm Delaying My Parliamentary Run to Complete Pasifika](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250523/20250523.md)
+* [Building Before Leading - Why I'm Delaying My Parliamentary Run to Complete Pasifika](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250523/202523.md)
 * [The Alpha Engineer's Manifesto - Why I Choose to Be Loud](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250520/20250520.md)
 * [The Alpha Engineer's Final Evolution: Entrepreneur](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250514/20250514.md)
 * [Tonga's New Cyber Laws Modernize Digital Policy but Lack Provisions for Emerging Technologies](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250510/20250510.md)
