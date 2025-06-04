@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### June 2025
+* [Securing the Future - My Reflections from Alliance for Financial Inclusion (AFI) PIRI 2025 on AI and Cybersecurity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250604/20250604.md)
+
 ### May 2025
 * [From Island Networks to Perfect Money - How DePIN Will Complete the Separation of Money from State](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250530/20250530.md)
 * [Alpha Engineers Build Through Rejection - A Week of Milestones and Mindset](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250527/20250527.md)
