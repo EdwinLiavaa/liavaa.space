@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### June 2025
+* [The Revival of PasifikaOS - Digital Sovereignty Rises in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250619/20250619.md)
 * [Denmark's Digital Liberation - A Historic Victory for Open Source Advocacy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250613/20250613.md)
 * [But You're Not Me and I'm Not You - A Sunday Morning Reflection on Humanity's Journey](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250609/20250609.md)
 * [Securing the Future - My Reflections from Alliance for Financial Inclusion (AFI) PIRI 2025 on AI and Cybersecurity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250604/20250604.md)
