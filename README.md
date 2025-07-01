@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### July 2025
+* [From Crisis to Security - How DePIN Can Solve Tonga's Cybersecurity Challenges](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250701/20250701.md)
+
 ### June 2025
 * [The Revival of PasifikaOS - Digital Sovereignty Rises in the Pacific](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250619/20250619.md)
 * [Denmark's Digital Liberation - A Historic Victory for Open Source Advocacy](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250613/20250613.md)
