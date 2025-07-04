@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### July 2025
+* [Alpha Engineers - When Deaf Ears Force Us to Build Louder](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250704/20250704.md)
 * [From Crisis to Security - How DePIN Can Solve Tonga's Cybersecurity Challenges](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250701/20250701.md)
 
 ### June 2025
