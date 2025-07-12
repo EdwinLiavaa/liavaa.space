@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### July 2025
+* [Virtue - The Alpha Engineer's Ultimate Evolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250712/20250712.md)
 * [Alpha Engineers - When Deaf Ears Force Us to Build Louder](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250704/20250704.md)
 * [From Crisis to Security - How DePIN Can Solve Tonga's Cybersecurity Challenges](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250701/20250701.md)
 
