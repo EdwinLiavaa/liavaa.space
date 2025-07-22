@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### July 2025
+* [The Great Awakening - When Citizens Press the Ultimate Reset Button](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250722/20250722.md)
 * [Constitutional Hard Forks - When Citizens Must Reclaim Their Ultimate Governance Power](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250719/20250719.md)
 * [Virtue - The Alpha Engineer's Ultimate Evolution](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250712/20250712.md)
 * [Alpha Engineers - When Deaf Ears Force Us to Build Louder](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250704/20250704.md)
