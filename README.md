@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### July 2025
+* [Visionary Catalysts - How Modern Industrialists Can Lead the Great Transition](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250730/20250730.md)
 * [Navigating the New World - Infrastructure and Services in a Post-Institutional Society](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250728/20250728.md)
 * [The Great Awakening - When Citizens Press the Ultimate Reset Button](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250722/20250722.md)
 * [Constitutional Hard Forks - When Citizens Must Reclaim Their Ultimate Governance Power](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250719/20250719.md)
