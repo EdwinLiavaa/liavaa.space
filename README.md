@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### August 2025
+* [Breaking the Aid Addiction - Why Pacific Islands Must Choose Sovereignty Over Geopolitical Slavery](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250801/20250801.md)
+
 ### July 2025
 * [Visionary Catalysts - How Modern Industrialists Can Lead the Great Transition](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250730/20250730.md)
 * [Navigating the New World - Infrastructure and Services in a Post-Institutional Society](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250728/20250728.md)
