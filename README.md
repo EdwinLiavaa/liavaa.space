@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### September 2025
+* [Beyond Policy Papers - Tonga's Cybersecurity Reality Check](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250908/20250908.md)
+
 ### August 2025
 * [Cybersecurity Sovereignty for Pacific Islands - Lessons from Tonga ICT Sector Meeting](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250821/20250821.md)
 * [Beyond Virtue - The Alpha Engineer's Spiritual Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250809/20250809.md)
