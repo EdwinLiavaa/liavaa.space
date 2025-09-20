@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### September 2025
+* [From Theory to Practice - How FSM Utilities AI-Powered DePIN GIS Systems Charts the Course for Pacific Cybersecurity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250920/20250920.md)
 * [The $17 Billion Gambit - How SpaceX Just Rewrote the Rules of Global Connectivity](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250909/20250909.md)
 * [Beyond Policy Papers - Tonga's Cybersecurity Reality Check](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250908/20250908.md)
 
