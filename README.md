@@ -44,7 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### October 2025
-* [Building Louder Part II - Introducing the 1st Blockchain Built BY Pacific Islanders FOR Pacific Islanders](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251005/20251005.md)
+* [Building Louder II - Introducing the 1st Blockchain Built BY Pacific Islanders FOR Pacific Islanders](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251005/20251005.md)
 
 ### September 2025
 * [Building Louder - When Your Calling Transcends Contracts](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20250928/20250928.md)
