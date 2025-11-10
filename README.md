@@ -1,7 +1,7 @@
 # Welcome to My Blog
 
 <p align="center">
- <img width="500" src="/avatar.png">
+ <img width="500" src="/logo.png">
 </p>
 
 ## About Me 
