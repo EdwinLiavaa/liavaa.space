@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### December 2025
+* [Paying It Forward - Why Alpha Engineers Must Become Mentors](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251214/20251214.md)
+
 ### November 2025
 * [The Pacific Needs Blockchain - Three Projects Proving I Was Right](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251114/20251114.md)
 * [UAE's Bitcoin Mining Breakthrough - The Opportunity Tonga Missed (But Can Still Seize)](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251104/20251104.md)
