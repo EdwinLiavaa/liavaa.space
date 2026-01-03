@@ -44,6 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### December 2025
+* [What I Learned from Lee Kuan Yew - The Alpha Engineer Who Built a Nation](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251230/20251230.md)
 * [Paying It Forward - Why Alpha Engineers Must Become Mentors](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251214/20251214.md)
 
 ### November 2025
