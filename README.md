@@ -43,6 +43,10 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### January 2026
+* [The Kodak Moment - How Central Banks Are Repeating History's Greatest Business Failure](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260125/20260125.md)
+* [Building Louder IV - PASI, The First Pacific Island Token and Our Answer to Economic Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260114/20260114.md)
+
 ### December 2025
 * [What I Learned from Lee Kuan Yew - The Alpha Engineer Who Built a Nation](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251230/20251230.md)
 * [Paying It Forward - Why Alpha Engineers Must Become Mentors](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20251214/20251214.md)
