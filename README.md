@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### February 2026
+* [The Engine Room Principle - Why Real Alpha Engineers Never Leave the Trenches](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260205/20260205.md)
+
 ### January 2026
 * [The Kodak Moment - How Central Banks Are Repeating History's Greatest Business Failure](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260125/20260125.md)
 * [Building Louder IV - PASI, The First Pacific Island Token and Our Answer to Economic Sovereignty](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260114/20260114.md)
