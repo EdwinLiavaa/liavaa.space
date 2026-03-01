@@ -47,6 +47,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 * [The Alpha Engineer's Endgame - Become a Nobody](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260301/20260301.md)
 
 ### February 2026
+* [The Alpha Engineer's Endgame - Become a Nobody](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260325/20260325.md)
 * [The Engine Room Principle - Why Real Alpha Engineers Never Leave the Trenches](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260205/20260205.md)
 
 ### January 2026
