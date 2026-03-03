@@ -44,7 +44,7 @@ I offer strategic consulting and advisory services focused on leveraging technol
 ## Blog
 
 ### March 2026
-* [The Alpha Engineer's Endgame - Become a Nobody](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260301/20260301.md)
+* [While the World Debates AI vs. Crypto, We Are Building](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260303/20260303.md)
 
 ### February 2026
 * [The Alpha Engineer's Endgame - Become a Nobody](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260325/20260325.md)
