@@ -43,6 +43,9 @@ I offer strategic consulting and advisory services focused on leveraging technol
 
 ## Blog
 
+### April 2026
+* [While the World Debates AI vs. Crypto, We Are Building](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260303/20260303.md)
+
 ### March 2026
 * [While the World Debates AI vs. Crypto, We Are Building](https://github.com/EdwinLiavaa/liavaa.space/blob/main/blog/20260303/20260303.md)
 
